@@ -1,0 +1,19 @@
+.Card {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 4px;
+}
+
+.Card h3 {
+    margin: 10px;
+    font-size: 1.5rem;
+}
+
+.Card p {
+    margin: 10px;
+}
+
+.CustomImg {
+    width: 100%;
+    height: auto;
+}
